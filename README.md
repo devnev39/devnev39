@@ -5,7 +5,9 @@
 - 📫 How to reach me devnev39@gmail.com
 
 - Check my current projects demo 
+
 -> Collision Simulator          : https://devnev39.github.io/hosting
+
 -> Javascript Regression Model  : https://devnev39.github.io/Regression
 
 <!---
