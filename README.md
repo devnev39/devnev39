@@ -10,6 +10,10 @@
 
 -> Javascript Regression Model  : https://devnev39.github.io/Regression
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=devnev39&theme=jolly" width="700">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devnev39&layout=compact&langs_count=8&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 devnev39/devnev39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
