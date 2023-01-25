@@ -10,7 +10,9 @@
 
 -> Javascript Regression Model  : https://devnev39.github.io/Regression
 
--> Reverse Mode Autodiff  : https://devnev39.github.io/autodiff-js
+-> Reverse Mode Autodiff        : https://devnev39.github.io/autodiff-js
+
+-> Fourier Transform            : https://devnev39.github.io/Fourier
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=devnev39&theme=jolly" width="700">
 
