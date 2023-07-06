@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dhruv 
+- 👋 Hi, I’m Bhuvanesh 
 - 👀 I’m interested in many projects especially those with python, c++ and javascript
 - 🌱 I’m currently learning Machine Learning and deep learning with tensorflow 
 - 💞️ I’m looking to collaborate on github
