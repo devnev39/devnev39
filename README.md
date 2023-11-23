@@ -13,15 +13,19 @@
 
 - Check my current projects demo 
 
--> Collision Simulator          : https://devnev39.github.io/hosting
+**1. Collision Simulator**          : https://devnev39.github.io/hosting
 
--> Javascript Regression Model  : https://devnev39.github.io/Regression
+**2. Javascript Regression Model**  : https://devnev39.github.io/Regression
 
--> Reverse Mode Autodiff        : https://devnev39.github.io/autodiff-js
+**3. Reverse Mode Autodiff**        : https://devnev39.github.io/autodiff-js
 
--> Fourier Transform            : https://devnev39.github.io/Fourier
+**4. Fourier Transform**            : https://devnev39.github.io/Fourier
 
--> Video Call                   : https://vcall-peerjs.onrender.com (First start the backend by visiting https://fastapi-test-service-2.onrender.com)
+**5. Video Call**                   : https://vcall-peerjs.onrender.com (First start the backend by visiting https://fastapi-test-service-2.onrender.com)
+
+**6. Journal**                      : https://journal-render-service.onrender.com ( The service is set to cold start. It might take some time at first star. )
+
+
 
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1WYxIlL4mcmEvX-x-eNqPl1F6XEvtMeptAUi0OibVGfg/edit?usp=sharing](https://docs.google.com/document/d/1WYxIlL4mcmEvX-x-eNqPl1F6XEvtMeptAUi0OibVGfg/edit?usp=sharing)
