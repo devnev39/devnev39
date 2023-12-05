@@ -28,7 +28,7 @@
 
 
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1WYxIlL4mcmEvX-x-eNqPl1F6XEvtMeptAUi0OibVGfg/edit?usp=sharing](https://docs.google.com/document/d/1WYxIlL4mcmEvX-x-eNqPl1F6XEvtMeptAUi0OibVGfg/edit?usp=sharing)
+- 📄 Know about my experiences [Here]([https://docs.google.com/document/d/1WYxIlL4mcmEvX-x-eNqPl1F6XEvtMeptAUi0OibVGfg/edit?usp=sharing](http://collegecirculars.unipune.ac.in/sites/examdocs/OCT%20%202022/B.E%20(%202019%20PATTERN%20).pdf))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
