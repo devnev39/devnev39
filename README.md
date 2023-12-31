@@ -25,6 +25,8 @@
 
 **6. Journal**                      : https://journal-render-service.onrender.com ( The service is set to cold start. It might take some time at first star. )
 
+**7. Attendance**                   : [https://journal-render-service.onrender.com](https://attendance-extended-front.vercel.app/) ( First start the backend by visiting [https://attendance-extended-back.onrender.com](https://attendance-extended-back.onrender.com)]
+
 
 
 
