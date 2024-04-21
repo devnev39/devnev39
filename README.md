@@ -13,19 +13,24 @@
 
 - Check my current projects demo 
 
-**1. Collision Simulator**          : https://devnev39.github.io/hosting
+**1. Cric Auction**                  : [https://cric-front.vercel.app](https://cric-front.vercel.app)
+Head over to auctions section - Choose Test Auction - Enter password 123
 
-**2. Javascript Regression Model**  : https://devnev39.github.io/Regression
+**2. SLDC Live**                    : [https://sldc-live.vercel.app](https://sldc-live.vercel.app)
 
-**3. Reverse Mode Autodiff**        : https://devnev39.github.io/autodiff-js
+**3. Attendance**                   : [https://attendance-extended-front.vercel.app/](https://attendance-extended-front.vercel.app/) ( First start the backend by visiting [https://attendance-extended-back.onrender.com](https://attendance-extended-back.onrender.com)]
 
-**4. Fourier Transform**            : https://devnev39.github.io/Fourier
+**4. Collision Simulator**          : https://devnev39.github.io/hosting
 
-**5. Video Call**                   : https://vcall-peerjs.onrender.com (First start the backend by visiting https://fastapi-test-service-2.onrender.com)
+**5. Javascript Regression Model**  : https://devnev39.github.io/Regression
 
-**6. Journal**                      : https://journal-render-service.onrender.com ( The service is set to cold start. It might take some time at first star. )
+**6. Reverse Mode Autodiff**        : https://devnev39.github.io/autodiff-js
 
-**7. Attendance**                   : [https://journal-render-service.onrender.com](https://attendance-extended-front.vercel.app/) ( First start the backend by visiting [https://attendance-extended-back.onrender.com](https://attendance-extended-back.onrender.com)]
+**7. Fourier Transform**            : https://devnev39.github.io/Fourier
+
+**8. Video Call**                   : https://vcall-peerjs.onrender.com (First start the backend by visiting https://fastapi-test-service-2.onrender.com)
+
+**9. Journal**                      : https://journal-render-service.onrender.com ( The service is set to cold start. It might take some time at first star. )
 
 
 
